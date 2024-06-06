@@ -9,7 +9,7 @@ const App = () => {
         controls
         className='audio-player'
         type='audio/mp3'
-        src='http://localhost:3000/stream'
+        src='https://live-radio-server.onrender.com/stream'
       >
         Your browser does not support the audio element.
       </audio>
